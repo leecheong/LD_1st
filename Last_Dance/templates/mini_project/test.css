@@ -1,0 +1,11 @@
+#nav{
+    position: fixed;
+    left: 50px;
+    top: 50px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    width: 60px;
+    transition: ease-in-out;
+    transform: translateX(-200%);
+}
